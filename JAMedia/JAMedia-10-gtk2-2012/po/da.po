@@ -1,0 +1,345 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-02 00:30-0500\n"
+"PO-Revision-Date: 2013-02-01 20:04+0200\n"
+"Last-Translator: Aputsiaq Niels <aj@isit.gl>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#. TRANS: "name" option from activity.info file
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid "JAMedia"
+msgstr "JAMedia"
+
+#: Archivos_y_Directorios.py:84
+msgid "The streams were successfully updated."
+msgstr "Strømmen blev opdateret."
+
+#: Archivos_y_Directorios.py:86
+msgid "The streams could not be updated."
+msgstr "Strømmen kunne ikke opdateres."
+
+#: Archivos_y_Directorios.py:209 Archivos_y_Directorios.py:224
+#: Archivos_y_Directorios.py:237 Archivos_y_Directorios.py:246
+#: Archivos_y_Directorios.py:261 Archivos_y_Directorios.py:271
+#: Archivos_y_Directorios.py:280 JAMedia.py:385 JAMedia.py:394 JAMedia.py:414
+#: JAMedia.py:426 JAMedia.py:600 JAMediaWidgets.py:466 Sugar.py:179
+#: Sugar.py:399 Sugar.py:407 Sugar.py:426 Sugar.py:437 Sugar.py:460
+#: Sugar.py:495 Sugar.py:500 Sugar.py:515 Sugar.py:521 Sugar.py:528
+#: Sugar.py:535 Sugar.py:559
+msgid "JAMedia Message"
+msgstr "JAMedia-besked"
+
+#: Archivos_y_Directorios.py:210 Archivos_y_Directorios.py:262
+msgid ""
+"The file already exists in the destination directory. Do you want to "
+"overwrite it?"
+msgstr "Filen findes allerede i den valgte mappe. Ønsker du at overskrive den?"
+
+#: Archivos_y_Directorios.py:225
+msgid "File copied."
+msgstr "Filen blev kopieret."
+
+#: Archivos_y_Directorios.py:238 Archivos_y_Directorios.py:272
+msgid "The file does not exist."
+msgstr "Filen eksisterer ikke."
+
+#: Archivos_y_Directorios.py:247
+msgid "File deleted."
+msgstr "Filen blev slettet."
+
+#: Archivos_y_Directorios.py:281
+msgid "File moved."
+msgstr "Filen blev flyttet."
+
+#: JAMedia.py:76 Sugar.py:572
+msgid "Stopped recording."
+msgstr "Optagelse blev stoppet."
+
+#: JAMedia.py:77
+msgid "Stopped playing."
+msgstr "Afspilning blev stoppet."
+
+#: JAMedia.py:235 JAMedia.py:365 JAMedia.py:401 JAMedia.py:419 JAMedia.py:431
+#: JAMedia.py:438 JAMediaWidgets.py:619 Sugar.py:250 Sugar.py:379 Sugar.py:413
+#: Sugar.py:430 Sugar.py:441 Sugar.py:448
+msgid "JAMedia Radio"
+msgstr "JAMedia Radio"
+
+#: JAMedia.py:248 JAMedia.py:366 JAMedia.py:404 JAMedia.py:422 JAMedia.py:434
+#: JAMedia.py:441 JAMediaWidgets.py:623 Sugar.py:263 Sugar.py:380 Sugar.py:416
+#: Sugar.py:433 Sugar.py:444 Sugar.py:451
+msgid "JAMedia TV"
+msgstr "JAMedia TV"
+
+#. TRANS: Radio Stations
+#: JAMedia.py:262 JAMedia.py:407 JAMedia.py:496 JAMediaWidgets.py:627
+#: Sugar.py:276 Sugar.py:419 Sugar.py:504
+msgid "My Stations"
+msgstr "Mine stationer"
+
+#. TRANS: TV Channels
+#: JAMedia.py:276 JAMedia.py:410 JAMedia.py:500 JAMediaWidgets.py:631
+#: Sugar.py:289 Sugar.py:422 Sugar.py:508
+msgid "My Channels"
+msgstr "Mine kanaler"
+
+#: JAMedia.py:287 JAMediaWidgets.py:635 Sugar.py:300
+msgid "My Files"
+msgstr "Mine filer"
+
+#: JAMedia.py:297 JAMediaWidgets.py:639 Sugar.py:310
+msgid "Audio-JAMediaVideo"
+msgstr "Audio-JAMediaVideo"
+
+#: JAMedia.py:307 JAMediaWidgets.py:643 Sugar.py:320
+msgid "Video-JAMediaVideo"
+msgstr "Video-JAMediaVideo"
+
+#: JAMedia.py:317 JAMediaWidgets.py:647 Sugar.py:330
+msgid "JAMediaTube"
+msgstr "JAMediaTube"
+
+#: JAMedia.py:337 JAMediaWidgets.py:651 Sugar.py:350
+msgid "External Files"
+msgstr "Eksterne filer"
+
+#: JAMedia.py:343 JAMedia.py:362 Sugar.py:357
+msgid "Remove from the list"
+msgstr "Fjern fra listen"
+
+#: JAMedia.py:350 Sugar.py:364
+msgid "Copy to JAMedia"
+msgstr "Kopiér til JAMedia"
+
+#: JAMedia.py:354 Sugar.py:368
+msgid "Move to JAMedia"
+msgstr "Flyt til JAMedia"
+
+#: JAMedia.py:358 Sugar.py:372
+msgid "Delete this file"
+msgstr "Slet denne fil"
+
+#: JAMedia.py:367 Sugar.py:381
+msgid "Copy to my stream"
+msgstr "Kopiér min strøm"
+
+#: JAMedia.py:370 Sugar.py:384
+msgid "Move to my stream"
+msgstr "Flyt til min strøm"
+
+#: JAMedia.py:373
+msgid "Remove stream"
+msgstr "Fjern strøm"
+
+#: JAMedia.py:376 Sugar.py:390
+msgid "Record transmission"
+msgstr "Optag udsendelse"
+
+#: JAMedia.py:386 JAMedia.py:531 Sugar.py:399 Sugar.py:535
+msgid "Are you sure you want to remove it from the list?"
+msgstr "Er du sikker på du vil fjerne den fra listen?"
+
+#: JAMedia.py:395 Sugar.py:407
+msgid "Are you sure you want to remove the stream?"
+msgstr "Er du sikker på du vil fjerne den fra strømmen?"
+
+#: JAMedia.py:415 Sugar.py:426
+msgid "Are you sure you want to copy this stream to your list?"
+msgstr "Er du sikker på du vil kopiere denne strøm til din liste?"
+
+#: JAMedia.py:427 Sugar.py:437
+msgid "Are you sure you want to move this stream to your list?"
+msgstr "Er du sikker på du vil flytte denne strøm til din liste?"
+
+#: JAMedia.py:448 Sugar.py:458
+msgid "Yes"
+msgstr "Ja"
+
+#: JAMedia.py:449 Sugar.py:459
+msgid "No"
+msgstr "Nej"
+
+#: JAMedia.py:457 Sugar.py:467
+msgid "Name: "
+msgstr "Navn:"
+
+#: JAMedia.py:463 Sugar.py:473
+msgid "URL: "
+msgstr "URL:"
+
+#: JAMedia.py:469 Sugar.py:479
+msgid "Save"
+msgstr "Gem"
+
+#: JAMedia.py:470 Sugar.py:480
+msgid "Cancel"
+msgstr "Annullér"
+
+#: JAMedia.py:486
+msgid "You must specify a name and a URL to play."
+msgstr "Du skal angive et navn og en URL til afspilning."
+
+#: JAMedia.py:492 Sugar.py:500
+msgid "Are you sure you want to add this stream to your list?"
+msgstr "Er du sikker på at du vil tilføje denne strøm til din liste?"
+
+#: JAMedia.py:508 Sugar.py:515
+msgid "Are you sure you want to copy this file?"
+msgstr "Er du sikker på at du vil kopiere denne fil?"
+
+#: JAMedia.py:515
+msgid "Are you sure you want to delete this file?"
+msgstr "Er du sikker på at du vil slette denne fil?"
+
+#: JAMedia.py:523 Sugar.py:528
+msgid "Are you sure you want to move this file?"
+msgstr "Er du sikker på at du vil flytte denne fil?"
+
+#: JAMedia.py:555 Sugar.py:559
+msgid "Start to record?"
+msgstr "Start optagelse?"
+
+#: JAMedia.py:569 Sugar.py:75
+msgid "Stopped recording"
+msgstr "Stoppede med at optage"
+
+#: JAMedia.py:600 Sugar.py:603
+msgid "Exit from JAMedia?"
+msgstr "Afslut JAMedia?"
+
+#: JAMediaWidgets.py:140 JAMediaWidgets.py:223
+msgid "Exit"
+msgstr "Afslut"
+
+#: JAMediaWidgets.py:146 JAMediaWidgets.py:444
+msgid "Downloads"
+msgstr "Hentede filer"
+
+#: JAMediaWidgets.py:153
+msgid "Resolution"
+msgstr "Opløsning"
+
+#: JAMediaWidgets.py:179
+msgid "Scale video to:"
+msgstr "Skalér video til:"
+
+#: JAMediaWidgets.py:192
+msgid "Fullscreen"
+msgstr "Fuldskærm"
+
+#: JAMediaWidgets.py:212
+msgid "Open Audio or Video Files"
+msgstr "Åben lyd- eller videofiler"
+
+#: JAMediaWidgets.py:221
+msgid "Open"
+msgstr "Åbn"
+
+#: JAMediaWidgets.py:222
+msgid "Select all"
+msgstr "Vælg alle"
+
+#: JAMediaWidgets.py:229
+msgid "Music"
+msgstr "Musik"
+
+#: JAMediaWidgets.py:233
+msgid "Videos"
+msgstr "Videoer"
+
+#: JAMediaWidgets.py:361
+msgid "Last track"
+msgstr "Sidste nummer"
+
+#: JAMediaWidgets.py:369
+msgid "Play or pause"
+msgstr "Afspil eller sæt på pause"
+
+#: JAMediaWidgets.py:377
+msgid "Next track"
+msgstr "Næste nummer"
+
+#: JAMediaWidgets.py:385
+msgid "Stop playing"
+msgstr "Stop afspilning"
+
+#: JAMediaWidgets.py:456
+msgid "Update JAMedia streams"
+msgstr "Opdatér JAMedia-strømme"
+
+#: JAMediaWidgets.py:457
+msgid "Close"
+msgstr "Luk"
+
+#: JAMediaWidgets.py:466
+msgid "Download and update JAMedia stream?"
+msgstr "Hent og opdatér JAMedia-strøm?"
+
+#: JAMediaWidgets.py:537
+msgid "Stop recording."
+msgstr "Stop optagelse."
+
+#: JAMediaWidgets.py:545
+msgid "Recording"
+msgstr "Optager"
+
+#: JAMediaWidgets.py:549
+msgid "Recording stopped"
+msgstr "Optagelse stoppede"
+
+#: JAMediaWidgets.py:588
+msgid "Select a list."
+msgstr "Vælg en liste."
+
+#: JAMediaWidgets.py:613
+msgid "Add stream"
+msgstr "Tilføj strøm"
+
+#: Mplayer_Reproductor.py:270
+msgid "Playback Paused"
+msgstr "Afspilning sat på pause"
+
+#: Mplayer_Reproductor.py:279
+msgid "Playing"
+msgstr "Afspiller"
+
+#: Mplayer_Reproductor.py:297
+msgid "Playback Stopped"
+msgstr "Afspilning stoppede"
+
+#: Sugar.py:76
+msgid "Stopped playing"
+msgstr "Afspilning stoppede"
+
+#: Sugar.py:116
+msgid "File from Journal"
+msgstr "Fil fra journal"
+
+#: Sugar.py:376
+msgid "Remove from the List"
+msgstr "Fjern fra listen"
+
+#: Sugar.py:387
+msgid "Delete stream"
+msgstr "Slet strøm"
+
+#: Sugar.py:495
+msgid "You must specify a name and a playing URL."
+msgstr "Du skal angive et navn og en afspilnings-URL."
+
+#: Sugar.py:521
+msgid "Are you sure you want to remove this file?"
+msgstr "Er du sikker på du vil slette denne fil?"
