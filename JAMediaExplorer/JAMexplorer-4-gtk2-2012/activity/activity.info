@@ -1,0 +1,6 @@
+[Activity]
+name = JAMexplorer
+activity_version = 2
+service_name = org.laptop.JAMexplorer
+class = JAMexplorer.JAMexplorer
+icon = JAMexplorer
