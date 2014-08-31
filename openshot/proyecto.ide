@@ -1,0 +1,17 @@
+{
+    "autores":[
+        [
+            "", 
+            ""
+        ]
+    ], 
+    "categoria":"", 
+    "descripcion":"", 
+    "licencia":"GPL2", 
+    "main":"openshot.py", 
+    "mimetypes":"", 
+    "nombre":"openshot", 
+    "path":"/home/flavio/BatovideWorkSpace/openshot", 
+    "url":"", 
+    "version":"0.0.1"
+}
